@@ -1,0 +1,5 @@
+{
+    "Path": "static/public",
+    "Repository": "change this with your repository url",
+    "Command": "hugo build"
+}
